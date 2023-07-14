@@ -11,7 +11,7 @@ import static io.qameta.allure.Allure.step;
 public class SelenideTestForAllureSteps {
 
     @Test
-    public void LambdaStepSearchIssueTest() {
+    public void lambdaStepSearchIssueTest() {
         SelenideLogger.addListener("allure", new AllureSelenide());
 
         step("Открываем главную страницу", () -> {

@@ -10,7 +10,7 @@ import static com.codeborne.selenide.Selenide.open;
 public class SelenideTestForAllureListener {
 
     @Test
-    public void SearchIssueTest() {
+    public void searchIssueTest() {
 
         SelenideLogger.addListener("allure", new AllureSelenide());
 
