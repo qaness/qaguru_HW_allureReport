@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Jul 14 13:40:34 GMT 2023","Fri Jul 14 13:40:39 GMT 2023","4731","","SelenideTestForAllureListener","","SelenideTestForAllureListener","SearchIssueTest","SearchIssueTest()",""
+"passed","Fri Jul 14 13:40:23 GMT 2023","Fri Jul 14 13:40:34 GMT 2023","10678","","SelenideTestForAllureAnnotatedSteps","","SelenideTestForAllureAnnotatedSteps","testAnnotatedSteps","Поиск Issue неавторизованным пользователем",""
+"passed","Fri Jul 14 13:40:39 GMT 2023","Fri Jul 14 13:40:44 GMT 2023","5134","","SelenideTestForAllureSteps","","SelenideTestForAllureSteps","LambdaStepSearchIssueTest","LambdaStepSearchIssueTest()",""
